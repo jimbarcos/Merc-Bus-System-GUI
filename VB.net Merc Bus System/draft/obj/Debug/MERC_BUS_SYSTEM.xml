@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MERC_BUS_SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:draft.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources._8_bit_Remix__Animal_Crossing___Bubblegum_K_K___Aircheck_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.A_Lonely_Cherry_Tree">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Chill_Chiptune___Late_Night_Lights_by_RyanAvx__Relaxing_lofi_8_Bit_music_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Come_Along_With_Me__Island_Song___8_Bit_Tribute_to_Adventure_Time___Ashley_Eriksson_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Dragon_ball_Super___Ultra_Instinct__8_bit_Cover_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.loading_bar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Onepunch_Man___The_Hero_FULL__8bit_mix_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Prayer_In_C__8_Bit_Remix_Cover_Version____Koi_Dance_Touhou_8_Bit_Universe">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Rugrats_Theme__8_Bit_Tribute_to_Rugrats____8_Bit_Universe_1_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.SPARKLE">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.Steven_Universe_theme_in_8_bit">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:draft.My.Resources.Resources.前前前世君の名は_8bit">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
